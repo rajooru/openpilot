@@ -52,10 +52,12 @@ FW_VERSIONS = {
   CAR.TESLA_AP3_MODELY: {
     (Ecu.eps, 0x730, None): [
       b'TeM3_E014p10_0.0.0 (16),Y002.18.00',
-      b'TeMYG4_DCS_Update_0.0.0 (9),Y4P002.25.0'
+      b'TeMYG4_DCS_Update_0.0.0 (9),Y4P002.25.0',
+      b'TeM3_E014p10_0.0.0 (16),Y002.18.00'
     ],
     (Ecu.engine, 0x606, None): [
       b'\x01\x00\x05 m\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Z\xd5',
+      b'\x01\x00\x05 O\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x003\x9a'
     ],
   },
 }
