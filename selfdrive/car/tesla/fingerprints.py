@@ -57,8 +57,7 @@ FW_VERSIONS = {
     (Ecu.eps, 0x730, None): [
       b'TeM3_ES014p11_0.0.0 (25),YS002.19.0',
       b'TeM3_E014p10_0.0.0 (16),Y002.18.00',
-      b'TeMYG4_DCS_Update_0.0.0 (9),Y4P002.25.0',
-      b'TeM3_E014p10_0.0.0 (16),Y002.18.00'
+      b'TeMYG4_DCS_Update_0.0.0 (9),Y4P002.25.0'
     ],
     (Ecu.engine, 0x606, None): [
       b'\x01\x00\x05 m\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00Z\xd5',
